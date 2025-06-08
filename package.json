@@ -1,0 +1,19 @@
+{
+  "name": "architecture",
+  "version": "1.0.0",
+  "description": "Тестовый проект для проектирования",
+  "scripts": {
+    "start": "webpack serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/IvanShevchenko135/architecture"
+  },
+  "author": "IvanShevchenko135",
+  "license": "ISC",
+  "dependencies": {
+    "webpack": "^5.99.9",
+    "webpack-cli": "^6.0.1",
+    "webpack-dev-server": "^5.2.2"
+  }
+}
